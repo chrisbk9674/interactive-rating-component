@@ -1,4 +1,4 @@
-# 🌟 Interactive Rating Component\*\*
+# 🌟 Fully Responsive Interactive Rating Component\*\*
 
 <p align="center">
   <img src="design/desktop-design-close-up.jpg" alt="Blog Preview Card" width="50%">
